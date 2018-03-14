@@ -1,0 +1,59 @@
+body {
+
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background-color: black;
+}
+
+.title1 {
+
+    text-align: center;
+    color: lime;
+}
+
+.pulsate {
+
+    color: #00ff00;
+    text-align: center;
+}
+
+.link-position {
+
+    text-align: center;
+    padding-top: 30px;
+}
+
+a:link, a:visited, a:hover, a:active {
+
+    color: #00ff00;
+    text-decoration: none;
+}
+
+hr {
+    height: 1px;
+    background-color: #00ff00;
+    border: none;
+}
+
+.comments {
+
+    color: #00ff00;
+}
+
+#get-ip {
+
+    color: #2aabd2;
+    text-align: center;
+}
+
+#clock {
+
+    color: #2aabd2;
+    text-align: center;
+}
+
+#django {
+
+    text-align: center;
+}
+
